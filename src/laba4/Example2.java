@@ -12,7 +12,7 @@ public class Example2 {
                 System.out.print("+");
                 z=z+1;
             }
-            System.out.println(" Кол-во символов в строке "+z);
+            System.out.println();
         }
 
     }
