@@ -9,8 +9,6 @@ public class Task2012 {
         }else if (f<7 && f>=1){
             System.out.println("NO");
         }
-
-
     }
 
 }
